@@ -1,0 +1,9 @@
+VPC Endpoint Gateway: DynamoDB and S3. All other services communication supports only VPC Endpoint Interfaces
+
+Shield Advanced: EC2, ELB, CloudFront, Route 53 and Global Accelerator
+
+Compute Optimizer: EC2, Lambda Functions, EBS Volumes and Auto-Scaling Groups
+
+Global Services: IAM, WAF, CloudFront, Route53
+
+Trusted Advisor Pillars: Cost Optimization, Performance Efficiency, Security, Service Limits and Fault Tolerance 
