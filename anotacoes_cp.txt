@@ -1,0 +1,21 @@
+RDS: 
+
+Read-replicas: Performance
+Multi-AZ: Disaster recovery
+
+Golden images: AMI's
+Bootstrapping: User data
+
+CloudWatch 5min, 1min detalhado
+Não monitora memória por padrão
+Monitora aplicações e serviços
+
+Convertible Reserved Instance can change family
+
+Systems Manager: RUN COMMAND usado para instalar, corrigir e desinstalar software
+
+Capex vs Opex
+
+Ler todos os FAQs
+
+AWS Landing Zone
