@@ -1,0 +1,48 @@
+basic:
+account and billing
+7 trusted advisor checks
+
+developer:
+email tech support
+7 trusted advisor checks
+tech support limited topics 1 contact
+general guidance 24h
+systems impaired
+architectural guidance GENERAL
+access to SUPPORT AUTOMATION WORKFLOWS
+
+business:
+phone and chat 24/7 tech support
+all trusted advisor checks
+unlimited cases unlimited contacts
+general guidance
+systems impaired
+production systems impaired
+production systems down
+troubleshooting for 3rd party apps
+access to SUPPORT AUTOMATION WORKFLOWS
+access to support api
+access to health api
+aws managed services for additional fee
+architectural guidance is CONTEXTUAL TO YOUR USE-CASE
+acces to INFRASTRUCTURE EVENT MANAGEMENT for additional fee
+
+enterprise:
+phone and chat 24/7 chat
+tech support for unlimited contacts unlimited cases
+general guidance
+systems impaired
+production systems impaired
+production systems down
+business-critical systems down
+troubleshooting for 3rd party apps
+access to SUPPORT AUTOMATION WORKFLOWS
+access to health api
+access to support api
+access to INFRASTRUCTURE EVENT MANAGEAMENT
+access to AWS MANAGED SERVICES for an additional fee
+access to AWS INCIDENT DETECTION AND RESPONSE
+access to TAM
+access to COINCIERGE TEAM
+access to SELF-PACED LABS
+architectural guidance is BASED ON YOUR APPLICATION
